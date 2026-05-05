@@ -6,6 +6,7 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 
+# video for basics: https://www.youtube.com/watch?v=qZsgPgGdOzQ
 # Layout
 
 show_excerpts: false             # show article excerpts instead of archive list on the home page
