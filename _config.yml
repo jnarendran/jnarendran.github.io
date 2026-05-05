@@ -18,8 +18,10 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "archive.html", title: "Home", sidebaricon: home}
-  - {file: "README.md", title: "About Me", sidebaricon: address-card}
+  - {file: "/Jairaj_Resume.pdf", title: "Resume"}
+  - {title: "Google Scholar", url: "https://scholar.google.com/citations?user=9v9WDlAAAAAJ&hl=en&authuser=1"}
+  #- {file: "archive.html", title: "Home", sidebaricon: home}
+  #- {file: "README.md", title: "About Me", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:jairajnarendran@gmail.com"}
