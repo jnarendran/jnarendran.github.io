@@ -2,14 +2,14 @@
 title: Jairaj Narendran
 subtitle: "@jnarendran"
 email: jairajnarendran@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: I am Jairaj Narendran, a mechanical engineer looking to develop more sustainable and efficient processes.
 baseurl: "" #"/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Jairaj Narendran
 street_address: "(Private)"
 city: Boston
 state: MA
-zip_code: "Private"
+zip_code: "(Private)"
 country: United States of America
 phone: (817) 941-3308
 
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/jnarendran
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus:
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: https://www.linkedin.com/in/jairajnarendran
+  Twitter: 
   Facebook:
   Slack:
 
