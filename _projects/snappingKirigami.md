@@ -21,12 +21,8 @@ The *kirigami* (the art of adding cuts to paper) shell used in the grasping tool
 </p>
 
 <div>
-  <img src="/assets/projectPhotos/Ori-Kirigami_Schematic.png" alt="..." style="display:block; margin: 3px auto; width:50%; height:auto;">
+  <img src="/assets/projectPhotos/Ori-Kirigami_Schematic.png" alt="..." style="display:block; margin: 3px auto; width:49%; height:auto;">
 </div>
-<p align="middle">
-  A schematic of the specific valley and mountain folds used.
-</p>
-
 <div style="display:flex; justify-content:center;">
   <video autoplay muted loop playsinline controls playsinline style="max-width: 49%; height: auto;">
     <source src="/assets/projectPhotos/Slowmosnap_c.m4v" type="video/mp4">
@@ -34,5 +30,5 @@ The *kirigami* (the art of adding cuts to paper) shell used in the grasping tool
   </video>
 </div>
 <p align="middle">
-  A slow motion video of the snapping behavior
+  On the left is a schematic of the specific mountain and valley folds used. On the right is a slow motion video of snapping behavior in another gripper with the same folds.
 </p>
