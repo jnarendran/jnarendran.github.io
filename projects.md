@@ -4,7 +4,7 @@ title: Projects
 landing-title: 'Projects'
 nav-menu: true
 description: A collection of my past and current projects.
-image: assets/img/coaster.JPG
+image: assets/img/RockyMountain.jpg
 author: null
 show_tile: true
 display-source: projects
