@@ -6,7 +6,9 @@ imagealt: a kirigami shell with folds
 showcase: 5
 ---
 
-The *kirigami* (the art of adding cuts to paper) shell used in the grasping tool showcased a smooth closing behavior that allowed it to pick up delicate objects. I added various valley and mountain folds to the convex side of kirigami gripper to enable a snapping behavior not previous observed. This new shell is called the *Ori-Kirigami* shell (adding *origami*, the art of adding folds to paper, to the aforementioned *kirigami*). Snapping behavior in thin sheets opens the door to cutting applications such as harvesting of produce off the vine or cauterizing in surgery.
+**Tools/Skills:** *Laser Cutting, Dynamic Mechanical Analysis (Instron), slow motion videography*
+
+The kirigami shell used in the grasping tool showcased a smooth closing behavior that allowed it to pick up delicate objects. *Kirigami* refers to the art of adding cuts to thin sheets. When I added various valley and mountain folds -- thus applying *origami*, or the art of adding folds to thin sheets -- to the convex side of kirigami gripper, I discovered a snapping behavior not previous observed. This new shell is called the *Ori-Kirigami* shell (a combination of the two art forms). Snapping behavior in thin sheets opens the door to cutting applications such as harvesting of produce off the vine or cauterizing in surgery.
 
 <video autoplay muted loop playsinline controls playsinline style="max-width: 49%; height: auto;">
   <source src="/assets/projectPhotos/Smoothclose_c.m4v" type="video/mp4">
