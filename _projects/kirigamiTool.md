@@ -16,19 +16,19 @@ Improvements made:
 - An intuitive handheld tool for easy operation
 <!--- ![GripperCAD](/assets/images/GripperCAD.png) --->
 
-<p align="middle">
+<div style="line-height:0;">
   <img src="/assets/projectPhotos/GripperCADExploded.png" width="47%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
   <img src="/assets/projectPhotos/gripperActuated.jpg" width="50.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
-</p>
+</div>
 <p align="middle">
   A CAD model of the grasping tool (left) and the complete kirigami gripper assembly holding up a 150 gram mass. 
 </p>
 
 
-<p align="middle">
+<div style="line-height:0;">
   <img src="/assets/projectPhotos/Improved Gripper.jpg" width="40%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
   <img src="/assets/projectPhotos/toolOnly.jpg" width="57%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
-</p>
+</div>
 <p align="middle">
   The kirigami gripper with reinforcements and high-friction pads (left) and actiation tool (right).
 </p>
