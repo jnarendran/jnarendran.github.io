@@ -18,17 +18,23 @@ The *kirigami* (the art of adding cuts to paper) shell used in the grasping tool
   Sorry, your browser doesn’t support embedded videos.
 </video>
 
-The left video shows the regular kirigami shell exhibiting smooth closure while the right video shows the ori-kirigami shell exhibiting snapping closure.
+<div style="display:flex; justify-content:center;">
+  The left video shows the regular kirigami shell exhibiting smooth closure while the right video shows the ori-kirigami shell exhibiting snapping closure.
+</div>
 
 <div>
-  <img src="/assets/projectPhotos/Ori-Kirigami_Schematic.png" alt="..." style="display:block; margin: 3px auto; width:75%; height:auto;">
+  <img src="/assets/projectPhotos/Ori-Kirigami_Schematic.png" alt="..." style="display:block; margin: 3px auto; width:50%; height:auto;">
 </div>
-A schematic of the specific valley and mountain folds used.
+
+<div style="display:flex; justify-content:center;">
+  A schematic of the specific valley and mountain folds used.
+</div>
 
 <div style="display:flex; justify-content:center;">
   <video autoplay muted loop playsinline controls playsinline style="max-width: 49%; height: auto;">
     <source src="/assets/projectPhotos/Slowmosnap_c.m4v" type="video/mp4">
     Sorry, your browser doesn’t support embedded videos.
   </video>
+  A slow motion video of the snapping behavior.
 </div>
-A slow motion video of the snapping behavior.
+
