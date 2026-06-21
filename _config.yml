@@ -13,6 +13,9 @@ zip_code: "(Private)"
 country: United States of America
 phone: (817) 941-3308
 
+plugins:
+  - jekyll-compress-images
+
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
