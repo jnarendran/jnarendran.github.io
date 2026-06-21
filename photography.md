@@ -19,8 +19,8 @@ order: 3
   <img src="/assets/img/coaster.JPG" width="49.65%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
   <img src="/assets/img/bluebells.jpg" width="39.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
   <img src="/assets/img/nightSky1.jpg" width="19.75%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
-  <img src="/assets/img/IMG_7078.HEIC" width="39.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
+  <img src="/assets/img/ladyBug.jpg" width="39.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
   <img src="/assets/img/RockyMountain.jpg" width="49.65%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
-  <img src="/assets/img/GoldenGate.HEIC" width="49.65%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
+  <img src="/assets/img/books.jpg" width="49.65%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
   <img src="/assets/img/LifeRing.JPG" width="49.65%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
   <img src="/assets/img/shapelyTree.JPG"  width="49.65%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
