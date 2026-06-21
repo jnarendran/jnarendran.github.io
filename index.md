@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-I enjoy reading, photography (all site images are by me!), and learning new things. Feel free to explore my work here.
+Welcome to my page! Here you can learn more about me, my work, and some pictures I've taken (all site images are by me!). If you have any questions or want to reach out, please email me at jairajnarendran@gmail.com.
