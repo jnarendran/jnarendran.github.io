@@ -16,4 +16,4 @@ After my undergrad, I went to Boston Univeristy for graduate school and recieved
 
 Outside of work, I enjoy reading, keeping up with tech, photography, and getting lost in learning something new.
 
-Please reach out to me by email at jairajnarendran@gmail.com with any questions or comments!
+If you have any questions or want to reach out, please email me at jairajnarendran@gmail.com.
