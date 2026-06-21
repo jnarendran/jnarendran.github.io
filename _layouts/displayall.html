@@ -3,11 +3,11 @@
 {% elsif 'projects' == page.display-source %}
     {% assign posts = site.projects %}
 {% elsif 'showcase' == page.display-source %}
-    <!--{% assign showcase_projects = site.projects | where_exp: "item", "item.showcase" %}
+    {% assign showcase_projects = site.projects | where_exp: "item", "item.showcase" %}
     {% assign showcase_posts = site.posts | where_exp: "item", "item.showcase" %}
     {% assign posts = showcase_projects | concat: showcase_posts %}
-    {% assign posts = posts | sort: 'showcase' %} -->
-	{% assign posts = site.projects | where_exp: "item", "item.showcase" | sort: "showcase" %}
+    {% assign posts = posts | sort: 'showcase' %}
+	<!-- {% assign posts = site.projects | where_exp: "item", "item.showcase" | sort: "showcase" %} -->
 {% endif %}
 
 <!DOCTYPE html>
