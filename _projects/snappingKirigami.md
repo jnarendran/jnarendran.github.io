@@ -20,10 +20,8 @@ The *kirigami* (the art of adding cuts to paper) shell used in the grasping tool
   The left video shows the regular kirigami shell exhibiting smooth closure while the right video shows the ori-kirigami shell exhibiting snapping closure.
 </p>
 
-<div>
-  <img src="/assets/projectPhotos/Ori-Kirigami_Schematic.png" alt="..." style="display:block; margin: 3px auto; width:49%; height:auto;">
-</div>
 <div style="display:flex; justify-content:center;">
+  <img src="/assets/projectPhotos/Ori-Kirigami_Schematic.png" alt="..." style="display:block; margin: 3px auto; width:49%; height:auto;">
   <video autoplay muted loop playsinline controls playsinline style="max-width: 49%; height: auto;">
     <source src="/assets/projectPhotos/Slowmosnap_c.m4v" type="video/mp4">
     Sorry, your browser doesn’t support embedded videos.
