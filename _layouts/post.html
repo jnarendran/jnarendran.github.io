@@ -19,11 +19,27 @@
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h1>{{ page.title }}</h1>
-		</header>
-		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
+		<div class="post-header">
+			<div class="text-part">
+				<header class="major">
+					<h1>{{ page.title }}</h1>
+				</header>
+			
+				<div class="condensed">
+					{% include toc.html html=content h_min=2 h_max=3 ordered=true %}
+				</div>
+			</div>
+			<div class="image-part">
+				{% if page.image != "" %}
+				<img src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.imagealt }}" style="height: 100%; width: 100%; margin: 0 1em 0 0"/>
+				{% endif %}
+			</div>
+		</div>
 		{{ content }}
+		{% if page.is_post and page.date %}
+			<i>Last updated: {{ page.date | date_to_long_string }}</i>
+		{% endif %}
+		<p><i><a class="previous-page yes-link-fade" href="javascript:historyBackWithFallback()">Back to previous page</a></i></p>
 	</div>
 </section>
 
