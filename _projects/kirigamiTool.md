@@ -20,7 +20,6 @@ Improvements made:
   <img src="/assets/projectPhotos/GripperCADExploded.png" width="47%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
   <img src="/assets/projectPhotos/gripperActuated.jpg" width="50.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
 </p>
-
 <p align="middle">
   A CAD model of the grasping tool (left) and the complete kirigami gripper assembly holding up a 150 gram mass. 
 </p>
@@ -30,7 +29,6 @@ Improvements made:
   <img src="/assets/projectPhotos/Improved Gripper.jpg" width="40%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
   <img src="/assets/projectPhotos/toolOnly.jpg" width="57%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
 </p>
-
 <p align="middle">
   The kirigami gripper with reinforcements and high-friction pads (left) and actiation tool (right).
 </p>
