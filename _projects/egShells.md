@@ -1,6 +1,6 @@
 ---
 title: Elastogranular Shell Structrues
-description: A hemispherical structure to understand shell mechanics
+description: A bilayer hemispherical structure to better understand shell mechanics
 image: 
 imagealt:
 showcase: 2
