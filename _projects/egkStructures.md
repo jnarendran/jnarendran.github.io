@@ -1,7 +1,7 @@
 ---
 title: Elastogranular Knit Stuctures
 description: A knit-confined rock structure for construction and crater repair
-image: assets/projectPhotos/100_2x/-40kN.JPG
+image: assets/projectPhotos/100_2x_40kN.JPG
 imagealt: a brick-like cylindrical structure made of rocks and wrapped in a knit
 showcase: 3
 ---
