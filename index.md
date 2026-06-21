@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-Welcome to my page! Here you can learn more about me, my work, and my photography (all site images are by me!). If you have any questions or want to reach out, please email me at jairajnarendran@gmail.com.
+Welcome to my page! Here you can learn more about me and my work while browsing some pictures I took (all site images are by me!). If you have any questions or want to reach out, please email me at jairajnarendran@gmail.com.
