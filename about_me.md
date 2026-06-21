@@ -8,7 +8,7 @@ show-title: true
 order: 1
 ---
 
-Hello! My name is Jairaj Narendran and I am a mechanical engineer who focuses on using materials and geometries to create functional structures. I have picked up experience in experimental design, prototyping, and testing, which I hope to use to develop more sustainable practices and improve human health outcomes.
+Hello! My name is Jairaj Narendran and I am a mechanical engineer who focuses on using materials and geometries to create functional structures. I have experience in experimental design, prototyping, and testing, which I hope to use to develop more sustainable practices and improve human health outcomes.
 
 I recieved my B.S. in Bioengineering with a minor in Materials Science and Engineering from the Univeristy of Illinois at Urbana-Champaign. I was invovled in the Biomedical Engineering Society (BMES), specifically as the Technical Director - responsible for technical programming and planning for the annual Engineering Open House. I also did research in various bioengineering and materials labs across campus. 
 
