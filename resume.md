@@ -9,4 +9,4 @@ imagealt: Columns
 order: 4
 ---
 
-[Resume PDF](/assets/Jairaj_Resume.pdf)
+[Open resume PDF](/assets/Jairaj_Resume.pdf)
