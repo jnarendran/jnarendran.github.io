@@ -5,6 +5,7 @@ description: Who am I?
 image: assets/images/autorFerry.JPG
 nav-menu: true
 show-title: true
+order: 1
 ---
 
 <!-- Main -->
