@@ -1,7 +1,7 @@
 ---
 layout: about_me
 title: Resume
-description: Experince, education, activities
+description: Experience, education, activities
 nav-menu: true
 show_tile: true
 image: assets/img/Greek.JPG
