@@ -15,7 +15,6 @@ Airfields are vital for evacuating people as well as bringing in goods during ti
   <img src="/assets/projectPhotos/100_2x_40kN.JPG" width="32.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
   <img src="/assets/projectPhotos/100_2x_40kN_sideways.JPG" width="32.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
 </div>
-
 <p align="middle">
    An EG knit structure 100 rows long before (left) and after (middle) a compressive load, which compacts the structure into a dense "brick" that can even be palced on its side (right).
 </p>
