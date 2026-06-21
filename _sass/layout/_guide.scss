@@ -18,7 +18,7 @@ $condensed_margin: 0.1rem;
     padding-right: 0.5rem;
   }
 
-  .image-part {
+  /* .image-part {
     display: block;
     flex: 1;
     margin-left: 0.5rem;
@@ -32,7 +32,21 @@ $condensed_margin: 0.1rem;
     }
     .image-part {
       display: none;
-    }
+    }*/
+  .image-part {
+    flex: 0 0 35%;   // or 30% if you want it smaller
+    margin-left: 1rem;
+    padding-left: 0;
+  }
+
+  .image-part img {
+    width: 100%;
+    height: auto;   // IMPORTANT: stop stretching to 100% height
+    object-fit: contain;
+    max-width: 100%;
+    display: block;
+  }// replaces commented above code
+  
   }
 }
 
