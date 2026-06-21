@@ -1,5 +1,6 @@
 $condensed_margin: 0.1rem;
 
+/*
 .post-header {
   display: flex;
   flex-direction: row;
@@ -18,7 +19,7 @@ $condensed_margin: 0.1rem;
     padding-right: 0.5rem;
   }
 
-  /* .image-part {
+  .image-part {
     display: block;
     flex: 1;
     margin-left: 0.5rem;
@@ -32,23 +33,47 @@ $condensed_margin: 0.1rem;
     }
     .image-part {
       display: none;
-    }*/
+    }
+  }
+} 
+*/
+
+.post-header {
+  display: block;
+
+  .text-part {
+    // let normal inline/block text flow
+    max-width: 100%;
+    margin-right: 0;
+    padding-right: 0;
+    overflow: visible;
+  }
+
   .image-part {
-    flex: 0 0 35%;   // or 30% if you want it smaller
-    margin-left: 1rem;
+    float: right;
+    width: 35%;
+    margin-left: 1.5rem; // space between image and wrapping text
+    margin-right: 0;
     padding-left: 0;
+    padding-right: 0;
   }
 
   .image-part img {
     width: 100%;
-    height: auto;   // IMPORTANT: stop stretching to 100% height
-    object-fit: contain;
+    height: auto;
     max-width: 100%;
     display: block;
-  }// replaces commented above code
-  
+    object-fit: contain;
+  }
+
+  // optional: clear float so subsequent content doesn't get affected oddly
+  &::after {
+    content: "";
+    display: table;
+    clear: both;
   }
 }
+
 
 /* Alerts */
 
