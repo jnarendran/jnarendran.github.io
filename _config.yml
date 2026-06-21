@@ -42,6 +42,6 @@ exclude:
 - LICENSE.md
 - CONTRIBUTING.md
 - README.md 
-- elements.md
-- landing.md
-- generic.md
+- ref_elements.md
+- ref_landing.md
+- ref_generic.md
