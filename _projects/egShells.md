@@ -1,8 +1,8 @@
 ---
 title: Elastogranular Shell Structrues
 description: A bilayer hemispherical structure to better understand shell mechanics
-image: 
-imagealt: assets/projectPhotos/newShellNeg.jpg
+image: assets/projectPhotos/newShellNeg.jpg
+imagealt: a green hemispherical shell with a bumpy surface
 showcase: 2
 ---
 
