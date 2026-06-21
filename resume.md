@@ -15,5 +15,5 @@ order: 4
   src="/assets/Jairaj_Resume.pdf"
   type="application/pdf"
   width="100%"
-  height="700"
+  height="1000"
 />
