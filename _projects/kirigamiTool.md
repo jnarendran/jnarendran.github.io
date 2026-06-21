@@ -27,8 +27,8 @@ Improvements made:
 
 
 <p align="middle">
-  <img src="/assets/projectPhotos/Improved Gripper.jpg" width="41%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
-  <img src="/assets/projectPhotos/toolOnly.jpg" width="58%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
+  <img src="/assets/projectPhotos/Improved Gripper.jpg" width="40%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
+  <img src="/assets/projectPhotos/toolOnly.jpg" width="57%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
 </p>
 
 <p align="middle">
