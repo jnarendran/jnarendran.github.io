@@ -9,11 +9,11 @@ imagealt: Columns
 order: 4
 ---
 
-<!-- [Open resume PDF](/assets/Jairaj_Resume.pdf) -->
+<a href="assets/Jairaj_Resume.pdf" target="_blank" rel="noopener noreferrer">Open Resume in new tab</a>
 
 <embed
   src="/assets/Jairaj_Resume.pdf"
   type="application/pdf"
   width="100%"
-  height="1500"
+  height="700"
 />
