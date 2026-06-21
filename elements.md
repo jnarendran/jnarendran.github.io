@@ -2,7 +2,8 @@
 layout: page
 title: Elements
 image: assets/images/pic01.jpg
-nav-menu: true
+description: for reference
+nav-menu: false
 show-title: false
 ---
 
