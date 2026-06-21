@@ -9,4 +9,11 @@ imagealt: Columns
 order: 4
 ---
 
-[Open resume PDF](/assets/Jairaj_Resume.pdf)
+<!-- [Open resume PDF](/assets/Jairaj_Resume.pdf) -->
+
+<embed
+  src="/assets/Jairaj_Resume.pdf"
+  type="application/pdf"
+  width="100%"
+  height="700"
+/>
