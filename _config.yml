@@ -13,6 +13,36 @@ zip_code: "(Private)"
 country: United States of America
 phone: (817) 941-3308
 
+# collections
+collections:
+  projects:
+    output: true
+
+# https://stackoverflow.com/questions/18675610/jekyll-change-layout-if-page-is-a-post
+# default layout
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: post
+  -
+    scope:
+      path: ""      # empty string for all files
+      type: posts   # limit to posts
+    values:
+      layout: post
+      is_post: true # automatically set is_post=true for all posts
+      description: ""
+      image: ""
+      imagealt: ""
+  -
+    scope:
+      path: ""
+      type: projects
+    values:
+      layout: post
+
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
