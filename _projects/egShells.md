@@ -16,10 +16,10 @@ EG Shell design characteristics
 - Shape locking behavior of various indentation shapes
 
 <div style="line-height:0;">
-  <img src="/assets/projectPhotos/newShellNeg.jpg" width="49.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
-  <img src="/assets/projectPhotos/shellCutOut_crop.png" width="49.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
-  <img src="/assets/projectPhotos/newShellCrushed-2.jpg" width="49.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
-  <img src="/assets/projectPhotos/newShellHold-2.jpg" width="49.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
+  <img src="/assets/projectPhotos/newShellNeg.jpg" width="49%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
+  <img src="/assets/projectPhotos/shellCutOut_crop.png" width="49%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
+  <img src="/assets/projectPhotos/newShellCrushed-2.jpg" width="49%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
+  <img src="/assets/projectPhotos/newShellHold-2.jpg" width="49%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
 </div>
 
 <p align="middle">
