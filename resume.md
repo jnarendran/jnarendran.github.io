@@ -9,11 +9,4 @@ imagealt: Columns
 order: 4
 ---
 
-<iframe
-  src="/assets/Jairaj_Resume.pdf"
-  width="100%"
-  height="900"
-  style="border:0;"
-  aria-label="Resume PDF">
-  <a href="/assets/Jairaj_Resume.pdf">Download the resume</a>
-</iframe>
+[Resume PDF](/assets/Jairaj_Resume.pdf)
