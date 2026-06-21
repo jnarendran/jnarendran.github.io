@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-I am Jairaj Narendran, a mechanical engineer who enjoys design and learning new things. Feel free to explore some of my projects and photography! 
+I am Jairaj Narendran, a mechanical engineer who enjoys design and learning new things. Feel free to explore some of my work! (all site images are by me)
