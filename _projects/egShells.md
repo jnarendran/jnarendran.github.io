@@ -31,7 +31,6 @@ EG Shell design characteristics
   <img src="/assets/projectPhotos/4mm.JPG" width="32.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
   <img src="/assets/projectPhotos/10mm.JPG" width="32.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
 </div>
-
 <p align="middle">
   EG shells without a defect (left), a 4 mm radius defect (middle), and 10 mm radius defect (right). Note the increase packing density of the grains surrounding the defect as defect size increases.
 </p>
@@ -41,7 +40,6 @@ EG Shell design characteristics
   <img src="/assets/projectPhotos/indent-pinch.JPG" width="32.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
   <img src="/assets/projectPhotos/indent-point.JPG" width="32.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
 </div>
-
 <p align="middle">
   EG shells with various indentation shapes locked in. From left to right: no indent, pinch, and point. 
 </p>
