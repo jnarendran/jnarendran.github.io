@@ -1,6 +1,6 @@
 ---
 title: About Me
-layout: landing
+layout: about_me
 description: Who am I?
 image: assets/images/autoFerryC.JPG
 nav-menu: true
