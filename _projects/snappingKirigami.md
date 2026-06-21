@@ -23,8 +23,8 @@ The kirigami shell used in the grasping tool showcased a smooth closing behavior
 </p>
 
 <div style="display:flex; justify-content:center;">
-  <img src="/assets/projectPhotos/Ori-Kirigami_Schematic.png" alt="..." style="display:block; margin: 3px auto; width:44%; height:auto;">
-  <video autoplay muted loop playsinline controls playsinline style="max-width: 54%; height: auto;">
+  <img src="/assets/projectPhotos/Ori-Kirigami_Schematic.png" alt="..." style="display:block; margin: 3px auto; width:43.5%; height:auto;">
+  <video autoplay muted loop playsinline controls playsinline style="max-width: 54.5%; height: auto;">
     <source src="/assets/projectPhotos/Slowmosnap_c.m4v" type="video/mp4">
     Sorry, your browser doesn’t support embedded videos.
   </video>
