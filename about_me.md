@@ -2,7 +2,7 @@
 title: About Me
 layout: landing
 description: Who am I?
-image: assets/images/pic07.jpg
+image: assets/images/autoFerry.JPG
 nav-menu: true
 show-title: true
 ---
