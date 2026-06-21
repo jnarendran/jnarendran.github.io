@@ -9,4 +9,11 @@ imagealt: Columns
 order: 4
 ---
 
-TBD
+<iframe
+  src="/assets/Jairaj_resume.pdf"
+  width="100%"
+  height="900"
+  style="border:0;"
+  aria-label="Resume PDF">
+  <a href="/assets/Jairaj_resume.pdf">Download the resume</a>
+</iframe>
