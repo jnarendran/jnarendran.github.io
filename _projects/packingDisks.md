@@ -15,7 +15,7 @@ While trying to understand how spherical grains would pack on a hemispherical su
 [Github: jnarendran/diskPacking](URL "https://github.com/jnarendran/diskPacking")
 
 <div style="line-height:0;">
-  <img src="/assets/projectPhotos/700grains.png" width="49.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
-  <img src="/assets/projectPhotos/600grains6mmDefect.png" width="49.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
+  <img src="/assets/projectPhotos/700grains.png" width="49%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
+  <img src="/assets/projectPhotos/600grains6mmDefect.png" width="49%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
 </div>
 There are 700 disks packed on a hemispehrical surface in the left image and 600 disks packed on a hemispherical surface with a 6 mm radius defect at the apex in the right image.
