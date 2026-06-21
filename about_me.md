@@ -2,7 +2,7 @@
 title: About Me
 layout: about_me
 description: Who am I?
-image: assets/images/autoFerryC.JPG
+image: assets/img/autoFerryC.JPG
 nav-menu: true
 show-title: true
 order: 1
