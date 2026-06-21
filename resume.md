@@ -10,10 +10,10 @@ order: 4
 ---
 
 <iframe
-  src="/assets/Jairaj_resume.pdf"
+  src="/assets/Jairaj_Resume.pdf"
   width="100%"
   height="900"
   style="border:0;"
   aria-label="Resume PDF">
-  <a href="/assets/Jairaj_resume.pdf">Download the resume</a>
+  <a href="/assets/Jairaj_Resume.pdf">Download the resume</a>
 </iframe>
