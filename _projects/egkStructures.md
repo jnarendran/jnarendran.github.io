@@ -11,8 +11,19 @@ showcase: 3
 Airfields are vital for evacuating people as well as bringing in goods during times of crisis. Concrete repair of airport runways require weeks of curing before loads can be placed on it and can hamper aircraft takeoff. A composite system of rocks and string can be used as a rapid method of airfield damage repair (ADR) to make the runways usable within hours instead. Elastogranular (EG) knit columns can be used for ADR by arranging the brick-like structures inside the crater.
 
 <div style="line-height:0;">
+  <img src="/assets/projectPhotos/CraterRepairAll.png" width="75%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
+</div>
+<p align="middle">
+   Overview of general crater repair steps using an elastogranular system. Illustrations by Natalie Pearl, Self-Assembly Lab, MIT.
+</p>
+
+<div style="line-height:0;">
   <img src="/assets/projectPhotos/CraterRepair2.png" width="49%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
 </div>
+<p align="middle">
+   Another method for crater infill. Illustrations by Natalie Pearl, Self-Assembly Lab, MIT.
+</p>
+
   
 <div style="line-height:0;">
   <img src="/assets/projectPhotos/100_0.JPG" width="32.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
