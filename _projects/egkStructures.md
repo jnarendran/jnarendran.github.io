@@ -36,8 +36,8 @@ My specific role in the project was the construction and validation of tabletop 
 </p>
 
 <div style="line-height:0; justify-content:center;">
-  <img src="/assets/projectPhotos/egk_closeup.jpg" width="35.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
-  <img src="/assets/projectPhotos/knittingMachine.jpg" width="63.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
+  <img src="/assets/projectPhotos/egk_closeup.jpg" width="25.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
+  <img src="/assets/projectPhotos/knittingMachine.jpg" width="45.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
 </div>
 <p align="middle">
   A close up image of the EG knit structure is on the left. On the right is the knitting machine and knit used to enclose the rocks.
