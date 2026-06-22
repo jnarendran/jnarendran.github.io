@@ -39,7 +39,17 @@
 		{% if page.is_post and page.date %}
 			<i>Last updated: {{ page.date | date_to_long_string }}</i>
 		{% endif %}
-		<p><i><a class="previous-page yes-link-fade" href="javascript:historyBackWithFallback()">Back to previous page</a></i></p>
+		<!-- <p><i><a class="previous-page yes-link-fade" href="javascript:historyBackWithFallback()">Back to previous page</a></i></p> -->
+		<p><i><a class="previous-page yes-link-fade" href="#" onclick="historyBackWithFallback(event)">Back to projects</a></i></p>
+
+		<script>
+		function historyBackWithFallback(e){
+  			e.preventDefault();
+  			if (window.history.length > 1) window.history.back();
+  			else window.location.href = '/projects.html';
+		}
+		</script>
+
 	</div>
 </section>
 
