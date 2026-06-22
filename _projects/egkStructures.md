@@ -35,7 +35,7 @@ My specific role in the project was the construction and validation of tabletop 
    An EG knit structure 100 rows long before (left) and after (middle) a compressive load, which compacts the structure into a dense "brick" that can even be palced on its side (right). This serves as both a benchtop model for testing larger infill solutions or as a premade solution as described in the image above.
 </p>
 
-<div style="line-height:0; justify-content:center;">
+<div style="line-height:0; display:flex; justify-content:center;">
   <img src="/assets/projectPhotos/egk_closeup.jpg" width="25.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
   <img src="/assets/projectPhotos/knittingMachine.jpg" width="45.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
 </div>
