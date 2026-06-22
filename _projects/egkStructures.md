@@ -8,22 +8,21 @@ showcase: 3
 
 **Tools/Skills:** *Cementitious Materials, Dynamic Mechancial Testing (Instron machine), Knitting, MATLAB*
 
-Airfields are vital for evacuating people as well as bringing in goods during times of crisis. Concrete repair of airport runways require weeks of curing before loads can be placed on it and can hamper aircraft takeoff. A composite system of rocks and string can be used as a rapid method of airfield damage repair (ADR) to make the runways usable within hours instead. Elastogranular (EG) knit columns can be used for ADR by arranging the brick-like structures inside the crater.
+Airfields are vital for evacuating people as well as bringing in goods during times of crisis. Concrete repair of airport runways require weeks of curing before loads can be placed on it and can hamper aircraft takeoff. A composite system of rocks and string can be used as a rapid method of airfield damage repair (ADR) to make the runways usable within hours instead. Elastogranular (EG) knit columns can be used for ADR by arranging the brick-like structures inside the crater. These structures consist of rocks of approximately 1 cm in radius enclosed by a knit made of Dyneema (ultra high molecular weight polyethylene or UHMWPE) rope.
 
-<div style="line-height:0;">
+<div style="line-height:0; justify-content:center;">
   <img src="/assets/projectPhotos/CraterRepairAll.png" width="75%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
 </div>
 <p align="middle">
-   Overview of general crater repair steps using an elastogranular system. Illustrations by Natalie Pearl, Self-Assembly Lab, MIT.
+   Overview of general crater repair steps using an elastogranular system and bioeffector material. Illustrations by Natalie Pearl, Self-Assembly Lab, MIT.
 </p>
 
-<div style="line-height:0;">
+<div style="line-height:0; justify-content:center;">
   <img src="/assets/projectPhotos/CraterRepair2.png" width="49%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
 </div>
 <p align="middle">
    Another method for crater infill. Illustrations by Natalie Pearl, Self-Assembly Lab, MIT.
 </p>
-
   
 <div style="line-height:0;">
   <img src="/assets/projectPhotos/100_0.JPG" width="32.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
@@ -31,5 +30,16 @@ Airfields are vital for evacuating people as well as bringing in goods during ti
   <img src="/assets/projectPhotos/100_2x_40kN_sideways.JPG" width="32.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
 </div>
 <p align="middle">
-   An EG knit structure 100 rows long before (left) and after (middle) a compressive load, which compacts the structure into a dense "brick" that can even be palced on its side (right).
+   An EG knit structure 100 rows long before (left) and after (middle) a compressive load, which compacts the structure into a dense "brick" that can even be palced on its side (right). This serves as both a benchtop model for testing larger infill solutions or as a premade solution as described in the image above.
 </p>
+
+<div style="line-height:0; justify-content:center;">
+  <img src="/assets/projectPhotos/egk_closeup.jpg" width="49%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
+  <img src="/assets/projectPhotos/knittingMachine.jpg" width="49%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
+</div>
+<p align="middle">
+  A close up image of the EG knit structure is on the left. On the right is the knitting machine and knit used to enclose the rocks.
+</p>
+
+
+
