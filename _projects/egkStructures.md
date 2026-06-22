@@ -8,13 +8,15 @@ showcase: 3
 
 **Tools/Skills:** *Cementitious Materials, Dynamic Mechancial Testing (Instron machine), Knitting, MATLAB*
 
-Airfields are vital for evacuating people as well as bringing in goods during times of crisis. Concrete repair of airport runways require weeks of curing before loads can be placed on it and can hamper aircraft takeoff. A composite system of rocks and string can be used as a rapid method of airfield damage repair (ADR) to make the runways usable within hours instead. Elastogranular (EG) knit columns can be used for ADR by arranging the brick-like structures inside the crater. These structures consist of rocks of approximately 1 cm in radius enclosed by a knit made of Dyneema (ultra high molecular weight polyethylene or UHMWPE) rope. My focus was specifically on making the dry EG knit structures, but I contributed to and was part of a much larger team that included researchers froom Boston University, Battelle, MIT, SDSM&T, and DARPA. 
+Airfields are vital for evacuating people as well as bringing in goods during times of crisis. Concrete repair of airport runways require weeks of curing before loads can be placed on it and can hamper aircraft takeoff. In a joint project betwen Boston University, Battelle, MIT, SDSM&T, and DARPA, we looked at an alternative rapid method for airfield damage repair (ADR) using a composite system of rocks, string, and biocompatioble adhesive, under the [Bio-inspired Restoration of Aged Concrete Edifices (BRACE) program](https://www.darpa.mil/research/programs/bio-inspired-restoration-of-aged-concrete-edifices). 
+
+My specific role in the project was the construction and validation of tabletop and medium sized models before being scaled up the 8'x8'x2' craters to be filled at the airport bases. I designed Elastogranular (EG) knit columns to be used for ADR by arranging the brick-like structures inside the crater. These structures consist of rocks of approximately 1 cm in radius enclosed by a knit made of Dyneema (ultra high molecular weight polyethylene or UHMWPE) rope. My focus was specifically on making the dry EG knit structures, but I contributed to the larger models and give some background in the following images. 
 
 <div style="line-height:0; justify-content:center;">
   <img src="/assets/projectPhotos/CraterRepairAll.png" width="75%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
 </div>
 <p align="middle">
-   Overview of general crater repair steps using an elastogranular system and bioeffector material. Illustrations by Natalie Pearl, Self-Assembly Lab, MIT.
+   Overview of general crater repair steps using an elastogranular system and bioeffector material as a part of the BRACE program. Illustrations by Natalie Pearl, Self-Assembly Lab, MIT.
 </p>
 
 <div style="line-height:0; justify-content:center;">
