@@ -44,7 +44,7 @@ My specific role in the project was the construction and validation of tabletop 
 </p>
 
 <div style="display:flex; justify-content:center;">
-  <img src="/assets/projectPhotos/2x2x2_Bio.jpg" alt="..." style="display:block; margin:3px; width:30%; height:auto;">
+  <img src="/assets/projectPhotos/2x2x2_Bio.jpg" alt="..." style="display:block; margin:3px; width:28%; height:auto;">
   <video autoplay muted loop playsinline controls playsinline style="max-width: 35%; height: auto;">
     <source src="/assets/projectPhotos/Humvee_c.m4v" type="video/mp4">
     Sorry, your browser doesn’t support embedded videos.
