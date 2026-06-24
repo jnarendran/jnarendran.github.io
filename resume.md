@@ -11,9 +11,9 @@ order: 4
 
 <a href="assets/Jairaj_Resume.pdf" target="_blank" rel="noopener noreferrer">Open Resume in new tab</a>
 
-<embed
+<!-- <embed
   src="/assets/Jairaj_Resume.pdf"
   type="application/pdf"
   width="100%"
   height="700"
-/>
+/> -->
