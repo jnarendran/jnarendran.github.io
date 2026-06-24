@@ -20,7 +20,7 @@ My specific role in the project was the construction and validation of tabletop 
 </p>
 
 <div style="line-height:0; display:flex; justify-content:center;">
-  <img src="/assets/projectPhotos/CraterRepair2.png" width="30%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
+  <img src="/assets/projectPhotos/CraterRepair2.png" width="50%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
 </div>
 <p align="middle">
    Another method for crater infill. Illustrations by Natalie Pearl, Self-Assembly Lab, MIT.
