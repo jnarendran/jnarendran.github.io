@@ -8,7 +8,7 @@ showcase: 1
 
 **Tools/Skills:** *3D printing (FDM), CAD (OnShape, SolidWorks), Dynamic Mechancial Testing (Instron machine), Laser Cutter, Silicone Molding*
 
-Grasping a fragile object without damaging it is a common challenge both in every day life and industrial use. Many solutions focus on making sophisticated appendages that mimic those in nature: finger-like structures guided by sensors and actuators. Here we have created a soft, compliant gripper inspired by *kirigami*, the Japanese art of applying cuts to paper, that is able to conform to the target object by deforming itself. Initial kirigami shell was developed by Yi Yang, improved gripper and tool were designed and made by me.
+Grasping a fragile object without damaging it is a common challenge both in every day life and industrial use. Many solutions focus on making sophisticated appendages that mimic those in nature: finger-like structures guided by sensors and actuators. Here we have created a soft, compliant gripper inspired by *kirigami*, the Japanese art of applying cuts to paper, that is able to conform to the target object by deforming itself. The initial kirigami shell was developed by Yi Yang, while improved gripper and tool were designed and made by me.
 
 <div style="display:flex; justify-content:center;">
   <video autoplay muted loop playsinline controls playsinline style="max-width: 75%; height: auto;">
@@ -17,7 +17,7 @@ Grasping a fragile object without damaging it is a common challenge both in ever
   </video>
 </div>
 <p align="middle">
-  A overivew of the kirigami shell fabrication and function. It is shown picking up objects of various shapes without damaging them. Video by Yi Yang, MOSS Lab, Boston University.
+  An overivew of the kirigami shell fabrication and function. It is shown picking up objects of various shapes without damaging them. Video by Yi Yang, MOSS Lab, Boston University.
 </p>
 
 Improvements made with new gripper and tool:
