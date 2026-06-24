@@ -32,7 +32,7 @@ My specific role in the project was the construction and validation of tabletop 
   <img src="/assets/projectPhotos/100_2x_40kN_sideways.JPG" width="32.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
 </div>
 <p align="middle">
-   An EG knit structure 100 rows long before (left) and after (middle) a compressive load, which compacts the structure into a dense "brick" that can even be palced on its side (right). This serves as both a benchtop model for testing larger infill solutions or as a premade solution as described in the image above.
+   An EG knit structure 100 rows long before (left) and after (middle) a compressive load, which compacts the structure into a dense "brick" that can even be placed on its side (right). This serves as both a benchtop model for testing larger infill solutions or as a premade solution as described in the image above.
 </p>
 
 <div style="line-height:0; display:flex; justify-content:center;">
