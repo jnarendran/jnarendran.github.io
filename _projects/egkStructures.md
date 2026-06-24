@@ -36,8 +36,8 @@ My specific role in the project was the construction and validation of tabletop 
 </p>
 
 <div style="line-height:0; display:flex; justify-content:center;">
-  <img src="/assets/projectPhotos/egk_closeup.jpg" width="25.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
-  <img src="/assets/projectPhotos/knittingMachine.jpg" width="45.5%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
+  <img src="/assets/projectPhotos/egk_closeup.jpg" width="25.5%" style="display:inline-block; margin:3px;" />
+  <img src="/assets/projectPhotos/knittingMachine.jpg" width="45.5%" style="display:inline-block; margin:3px;" />
 </div>
 <p align="middle">
   A close up image of the EG knit structure is on the left. On the right is the knitting machine and knit used to enclose the rocks.
@@ -45,7 +45,7 @@ My specific role in the project was the construction and validation of tabletop 
 
 <div style="display:flex; justify-content:center;">
   <img src="/assets/projectPhotos/2x2x2_Bio.jpg" alt="..." style="display:block; margin:3px; width:28%; height:auto;">
-  <video autoplay muted loop playsinline controls playsinline style="max-width: 35%; height: auto;">
+  <video autoplay muted loop playsinline controls playsinline style="max-width: 35%;  margin:3px; height: auto;">
     <source src="/assets/projectPhotos/Humvee_c.m4v" type="video/mp4">
     Sorry, your browser doesn’t support embedded videos.
   </video>
