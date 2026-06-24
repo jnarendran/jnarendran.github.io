@@ -8,7 +8,7 @@ showcase: 2
 
 Tools/Skills: Silicone Molding, Dynamic Mechancial Testing (Instron machine), Pneumatics, MATLAB, Python
 
-Shell structures are an attractive choice for engineered structures due to their efficient load distribution, high strength-weight ratio, and unique appearance. However, shell structures also display sensitivity to imperfections which can result in catastrophic failure if improperly loaded. In this work, I have designed an elastogranular (EG) shell structure capable of reversibly varying physical properties in order to study the mechanics of shell stiffening and buckling behavior.
+Shell structures are an attractive choice for engineered structures due to their efficient load distribution, high strength-to-weight ratio, and unique appearance. However, shell structures also display sensitivity to imperfections which can result in catastrophic failure if improperly loaded. In this work, I have designed an elastogranular (EG) shell structure capable of reversibly varying physical properties in order to study the mechanics of shell stiffening and buckling behavior.
 
 EG Shell design characteristics
 - Increased stiffness up to 3.5X of unactuated EG shell
