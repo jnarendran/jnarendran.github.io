@@ -51,7 +51,7 @@ My specific role in the project was the construction and validation of tabletop 
   </video>
 </div>
 <p align="middle">
-  On the left is an image of a model 2'x2'x2' box of the elastogranul system coated with a silk bioadhesive. On the right is the same box being loaded by a Humvee. The image and video are by Farida Mustafa, Self-Assembly Lab, MIT and Amani Campbell, MOSS Lab, Boston University. 
+  On the left is an image of a model 2'x2'x2' box of the elastogranular system coated with a silk bioadhesive. On the right is the same box being loaded by a Humvee. The image and video are by Farida Mustafa, Self-Assembly Lab, MIT and Amani Campbell, MOSS Lab, Boston University. 
 </p>
 
 
