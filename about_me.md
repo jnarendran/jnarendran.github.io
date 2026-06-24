@@ -14,6 +14,6 @@ I recieved my B.S. in Bioengineering with a minor in Materials Science and Engin
 
 After my undergrad, I went to Boston Univeristy for graduate school and recieved my Ph.D. and M.S in Materials Science and Engineering. My Ph.D. dissertation focused on utilizing nonlinearities in various mechanical systems to create functional structures. Outside of research, I involved in the Boston University Materials Science and Engineering Graduate Student Association (BUMSE-GSA), which organized various programming for graduate students. I served as the Peer Mentorship Program Director, pairing senior and incoming graduate students. I also volunteered as mentor for various summer research immersion programs such as [RISE](https://www.bu.edu/summer/high-school-programs/rise-internship-practicum/) and [Upward Bound](https://www.bu.edu/ubms/).
 
-Outside of work, I enjoy reading, keeping up with tech, photography, and getting lost in learning something new.
+Outside of work, I enjoy reading, keeping up with tech, practicing photography, and getting lost in learning something new.
 
 If you have any questions or want to reach out, please email me at jairajnarendran@gmail.com.
