@@ -40,5 +40,5 @@ Improvements made with new gripper and tool:
   <img src="/assets/projectPhotos/toolOnly.jpg" width="57%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
 </div>
 <p align="middle">
-  The kirigami gripper with reinforcements and high-friction pads (left) and actiation tool (right).
+  The kirigami gripper with reinforcements and high-friction pads (left) and actuation tool (right).
 </p>
