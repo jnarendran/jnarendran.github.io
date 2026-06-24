@@ -23,7 +23,7 @@ EG Shell design characteristics
 </div>
 
 <p align="middle">
-  Top row: an EG shell at ambient internal pressure that collapses under the 500 gram mass. Bottom row: an EG shell at a negative internal pressure that is able to hold the 500 gram mass. The EG shell itself weighs only 36 grams.
+  Top row: an EG shell at ambient internal pressure that collapses under the 500 gram mass. Bottom row: an EG shell at a negative internal pressure that is able to hold the 500 gram mass. The EG shell itself weighs 36 grams.
 </p>
 
 <div style="line-height:0;">
