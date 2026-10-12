@@ -2,7 +2,7 @@
 title: About Me
 layout: about_me
 description: Who am I?
-image: assets/img/lakeSide3.jpg
+image: assets/img/nightSky2.JPG
 nav-menu: true
 show-title: true
 order: 1
