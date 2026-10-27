@@ -35,6 +35,6 @@ order: 3
   <div class="photo" style="width:49.65%;"> <img src="/assets/img/books.jpg" alt="Various old books" /> <div class="info"><strong>Champaign</strong><br>Illinois · Winter 2018</div> </div>
   <div class="photo" style="width:49.65%;"> <img src="/assets/img/lifeRing.JPG" alt="A life ring on a dock" /> <div class="info"><strong>Newport Beach</strong><br>California · Spring 2025</div> </div>
   <div class="photo" style="width:49.65%;"> <img src="/assets/img/shapelyTree.JPG" alt="A tree cut into a sculpture" /> <div class="info"><strong>Nashville</strong><br>Tennessee · Spring 2025</div> </div>
-  <div class="photo" style="width:49.65%;"> <img src="/assets/img/goldenGate.jpg" alt="The Golden Gate Bridge" /> <div class="info"><strong>Naperville</strong><br>California · Winter 2023</div> </div>
+  <div class="photo" style="width:49.65%;"> <img src="/assets/img/goldenGate.jpg" alt="The Golden Gate Bridge" /> <div class="info"><strong>San Francisco</strong><br>California · Winter 2023</div> </div>
 
   <!-- <img src="/assets/img/BubblePeaks.JPG" width="49.65%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" /> -->
