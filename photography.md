@@ -8,7 +8,6 @@ image: assets/img/whiteFlower.jpg
 imagealt: A white flower
 order: 3
 ---
-
 <style>
   .photo { position: relative; display: inline-block; margin: 3px 0; vertical-align: top; }
   .photo img { display: block; width: 100%; }
