@@ -22,7 +22,8 @@ order: 3
 
 <div style="line-height:0;">
   <div class="photo" style="width:49.65%;"> <img src="/assets/img/coaster.JPG" alt="Knott's Berry Farm Coaster" /> <div class="info"><strong>Knott's Berry Farm</strong><br>California · Spring 2025</div> </div>
-  <img src="/assets/img/BubblePeaks.JPG" width="49.65%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
+  <!-- <img src="/assets/img/BubblePeaks.JPG" width="49.65%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" /> -->
+  <div class="photo" style="width:49.65%;"> <img src="/assets/img/coaster.JPG" alt="Bubble Peaks" /> <div class="info"><strong>Acadia National Park</strong><br>Maine · Fall 2025</div> </div>
   <img src="/assets/img/nightSky1.jpg"  width="33%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" /> <!-- 21.7% + 38.52% -->
   <img src="/assets/img/autoFerryC.JPG" width="66%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
   <div class="photo" style="width:49.65%;"> <img src="/assets/img/CraterLake.JPG" alt="Crater Lake" /> <div class="info"><strong>Crater Lake</strong><br>Oregon · Summer 2025</div> </div>
