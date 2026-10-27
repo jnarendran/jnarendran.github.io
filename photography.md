@@ -9,6 +9,18 @@ imagealt: A white flower
 order: 3
 ---
 
+<style>
+  .photo { position: relative; display: inline-block; margin: 3px 0; vertical-align: top; }
+  .photo img { display: block; width: 100%; }
+  .photo .info {
+    position: absolute; left: 0; right: 0; bottom: 0;
+    padding: 0.75em 1em; line-height: 1.4; font-size: 0.85em;
+    background: rgba(0, 0, 0, 0.65); color: #fff;
+    opacity: 0; transition: opacity 0.3s ease; pointer-events: none;
+  }
+  .photo:hover .info { opacity: 1; }
+</style>
+
 <div style="line-height:0;">
   <img src="/assets/img/coaster.JPG" width="49.65%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
   <img src="/assets/img/BubblePeaks.JPG" width="49.65%" style="display:inline-block; margin-bottom:3px; margin-top:3px;" />
